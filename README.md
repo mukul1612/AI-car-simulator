@@ -61,9 +61,4 @@ This will:
 * ☁️ Deployment as API
 * 🎮 UI for visualization
 
----
----
 
-## ⭐ Support
-
-If you found this useful, give it a ⭐ on GitHub!
